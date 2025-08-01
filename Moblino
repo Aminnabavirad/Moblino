@@ -1,0 +1,79 @@
+# Moblino
+مبلمان مبلینو
+عالیه! لوگوی مبلینو دریافت شد. حالا نسخه نهایی سایت با لوگو و اطلاعات کامل آماده‌ست ✅
+
+
+---
+
+🔧 نسخه HTML نهایی برای «مبلینو» (با لوگو)
+
+کد زیر رو در یک فایل با نام moblino.html ذخیره کن. من لینک تصویر لوگو رو هم برات گذاشتم که داخل سایت نمایش داده بشه.
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>نمایشگاه مبلینو</title>
+  <style>
+    body {
+      font-family: Tahoma, sans-serif;
+      background-color: #f5f5f5;
+      color: #222;
+      text-align: center;
+      padding: 2rem;
+    }
+    .container {
+      background: white;
+      border-radius: 16px;
+      padding: 2rem;
+      max-width: 600px;
+      margin: auto;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    }
+    .logo {
+      width: 150px;
+      margin-bottom: 1rem;
+    }
+    h1 {
+      color: #8B4513;
+      margin-bottom: 1rem;
+    }
+    .info {
+      font-size: 1.1rem;
+      line-height: 2;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="logo.png" alt="لوگوی مبلینو" class="logo">
+    <h1>نمایشگاه مبلینو</h1>
+    <div class="info">
+      <p><strong>آدرس:</strong> یافت‌آباد جنوبی، میدان الغدیر، نسترن ۴، خیابان اطلسی، نمایشگاه مبلینو</p>
+      <p><strong>شماره تماس:</strong> 091980587</p>
+      <p><strong>ساعت کاری:</strong> همه روزه</p>
+      <p><strong>اینستاگرام:</strong> <a href="https://instagram.com/moblino9" target="_blank">@moblino9</a></p>
+    </div>
+  </div>
+</body>
+</html>
+
+
+---
+
+📂 فایل لوگو:
+
+برای اینکه لوگو در سایت نمایش داده بشه، لازمه لوگو رو کنار فایل moblino.html قرار بدی و اسمش باشه:
+logo.png
+
+من برات همین حالا یه نسخه آماده زیپ‌شده می‌سازم تا بتونی دانلودش کنی.
+
+🛠 در حال آماده‌سازی فایل ZIP...
+
